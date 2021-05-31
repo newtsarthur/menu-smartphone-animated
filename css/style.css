@@ -6,6 +6,7 @@
     /* font-family: 'Merienda', cursive; */
 }
 html {
+    -webkit-tap-highlight-color: transparent;
     overflow-x: hidden;
     background-color: #131313;
 }
